@@ -2978,11 +2978,3 @@ margin-left: 20px;
     transform-origin: 0% 0%;
 }
 /** NEW 结束 **/
-/** 鼠标样式 开始**/
-/** 普通指针样式**/
-body {
-cursor: url(//wp-content/uploads/2020/04/huaji.png), default;
-}
-/** 链接指针样式**/
-a:hover{cursor:url(//wp-content/uploads/2020/04/huaji.png), pointer;}
-/** 鼠标样式 结束**/
