@@ -2981,8 +2981,8 @@ margin-left: 20px;
 /** 鼠标样式 开始**/
 /** 普通指针样式**/
 body {
-cursor: url(//www.tuzix.com/wp-content/uploads/2020/04/huaji.png), default;
+cursor: url(//wp-content/uploads/2020/04/huaji.png), default;
 }
 /** 链接指针样式**/
-a:hover{cursor:url(//www.tuzix.com/wp-content/uploads/2020/04/huaji.png), pointer;}
+a:hover{cursor:url(//wp-content/uploads/2020/04/huaji.png), pointer;}
 /** 鼠标样式 结束**/
